@@ -5,4 +5,8 @@ I used an Butterfly development module from https://www.tindie.com/products/tler
 
 I used STM32CubeMX 5.3.0 and Atollic TrueStudio 9.2.0 to do the development. I did not use the Arduino environment that came with the Butterfly module.
 
+<<<<<<< HEAD
 Remember to connect a CAN bus tranceiver to interface the pins 6(CANRX) and 7(CANTX).  I used a http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+=======
+Remember to connect a CAN bus tranceiver to interface the pins 6(CANRX) and 7(CANTX).  I used a http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+>>>>>>> 89f48199da080af799c3f6300c1d0efc7f1c5e85
