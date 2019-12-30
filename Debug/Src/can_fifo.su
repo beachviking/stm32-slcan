@@ -1,0 +1,8 @@
+can_fifo.c:11:6:can_fifo_init	8	static
+can_fifo.c:38:9:can_fifo_size	0	static
+can_fifo.c:28:9:can_fifo_empty	8	static
+can_fifo.c:33:9:can_fifo_full	8	static
+can_fifo.c:43:19:can_fifo_dequeue	8	static
+can_fifo.c:56:19:can_fifo_peek	8	static
+can_fifo.c:65:9:can_fifo_enqueue	24	static
+can_fifo.c:92:10:hex2int	0	static

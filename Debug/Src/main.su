@@ -1,0 +1,9 @@
+main.c:226:6:SystemClock_Config	248	static
+main.c:422:6:HAL_CAN_txMailbox0CompleteCallback	0	static
+main.c:426:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:437:6:parseInput	12	static
+main.c:475:9:CAN_Transmit	40	static
+main.c:516:6:process_incoming_usb	8	static
+main.c:558:6:process_incoming_can_message	56	static
+main.c:130:5:main	48	static
+main.c:592:6:Error_Handler	0	static
